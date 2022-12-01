@@ -1,0 +1,15 @@
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0032MathExcercise1\bin\Debug\net6.0\0032MathExcercise1.exe
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0032MathExcercise1\bin\Debug\net6.0\0032MathExcercise1.deps.json
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0032MathExcercise1\bin\Debug\net6.0\0032MathExcercise1.runtimeconfig.json
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0032MathExcercise1\bin\Debug\net6.0\0032MathExcercise1.dll
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0032MathExcercise1\bin\Debug\net6.0\0032MathExcercise1.pdb
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0032MathExcercise1\obj\Debug\net6.0\0032MathExcercise1.csproj.AssemblyReference.cache
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0032MathExcercise1\obj\Debug\net6.0\0032MathExcercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0032MathExcercise1\obj\Debug\net6.0\0032MathExcercise1.AssemblyInfoInputs.cache
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0032MathExcercise1\obj\Debug\net6.0\0032MathExcercise1.AssemblyInfo.cs
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0032MathExcercise1\obj\Debug\net6.0\0032MathExcercise1.csproj.CoreCompileInputs.cache
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0032MathExcercise1\obj\Debug\net6.0\0032MathExcercise1.dll
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0032MathExcercise1\obj\Debug\net6.0\refint\0032MathExcercise1.dll
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0032MathExcercise1\obj\Debug\net6.0\0032MathExcercise1.pdb
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0032MathExcercise1\obj\Debug\net6.0\0032MathExcercise1.genruntimeconfig.cache
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0032MathExcercise1\obj\Debug\net6.0\ref\0032MathExcercise1.dll
