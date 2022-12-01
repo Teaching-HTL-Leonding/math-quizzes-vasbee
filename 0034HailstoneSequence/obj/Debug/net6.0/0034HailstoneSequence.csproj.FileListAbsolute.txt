@@ -1,0 +1,15 @@
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0034HailstoneSequence\bin\Debug\net6.0\0034HailstoneSequence.exe
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0034HailstoneSequence\bin\Debug\net6.0\0034HailstoneSequence.deps.json
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0034HailstoneSequence\bin\Debug\net6.0\0034HailstoneSequence.runtimeconfig.json
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0034HailstoneSequence\bin\Debug\net6.0\0034HailstoneSequence.dll
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0034HailstoneSequence\bin\Debug\net6.0\0034HailstoneSequence.pdb
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0034HailstoneSequence\obj\Debug\net6.0\0034HailstoneSequence.csproj.AssemblyReference.cache
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0034HailstoneSequence\obj\Debug\net6.0\0034HailstoneSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0034HailstoneSequence\obj\Debug\net6.0\0034HailstoneSequence.AssemblyInfoInputs.cache
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0034HailstoneSequence\obj\Debug\net6.0\0034HailstoneSequence.AssemblyInfo.cs
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0034HailstoneSequence\obj\Debug\net6.0\0034HailstoneSequence.csproj.CoreCompileInputs.cache
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0034HailstoneSequence\obj\Debug\net6.0\0034HailstoneSequence.dll
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0034HailstoneSequence\obj\Debug\net6.0\refint\0034HailstoneSequence.dll
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0034HailstoneSequence\obj\Debug\net6.0\0034HailstoneSequence.pdb
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0034HailstoneSequence\obj\Debug\net6.0\0034HailstoneSequence.genruntimeconfig.cache
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0034HailstoneSequence\obj\Debug\net6.0\ref\0034HailstoneSequence.dll
